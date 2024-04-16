@@ -2,15 +2,14 @@
 
 🚀 Full Stack Developer | 💻 Open Source Enthusiast
 
-🛠️ Tech Stack:
-- Frontend: HTML/CSS, JavaScript (Angular, ReactJS)
-- Mobile: Flutter
-- Backend: Node.js, PHP
-- Database: MongoDB, Firebase, MSSQL
-- Other: Java
+🛠️ Tech Stack
 
-- 🌱 I’m currently learning Drupal and React Native
-- 😄 Pronouns: she/her
-- 📫 How to reach me lorriemarissetatoy@gmail.com
+Frontend: HTML/CSS, JavaScript (Angular, ReactJS)
+Mobile: React Native
+Backend: Node.js, PHP
+Database: Firebase
+Other: Java and Python
+
+📫 How to reach me lorriemarissetatoy@gmail.com
 
 🌐 Building awesome web and mobile applications!
