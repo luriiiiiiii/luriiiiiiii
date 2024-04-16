@@ -4,11 +4,11 @@
 
 🛠️ Tech Stack
 
-Frontend: HTML/CSS, JavaScript (Angular, ReactJS)
-Mobile: React Native
-Backend: Node.js, PHP
-Database: Firebase
-Other: Java and Python
+- Frontend : HTML/CSS, JavaScript (Angular, ReactJS)
+- Mobile : React Native
+- Backend : Node.js, PHP
+- Database : Firebase
+- Other : Java and Python
 
 📫 How to reach me lorriemarissetatoy@gmail.com
 
