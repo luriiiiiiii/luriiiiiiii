@@ -10,6 +10,5 @@
 - Database : Firebase
 - Other : Java and Python
 
-📫 How to reach me lorriemarissetatoy@gmail.com
 
 🌐 Building awesome web and mobile applications!
