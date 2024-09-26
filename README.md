@@ -4,10 +4,10 @@
 
 🛠️ Tech Stack
 
-- Frontend : HTML/CSS, JavaScript (Angular, ReactJS)
+- Frontend : HTML/CSS, JavaScript (ReactJS)
 - Mobile : React Native
 - Backend : Node.js, PHP
-- Database : Firebase
+- Database : Firebase and PostgreSQL
 - Other : Java and Python
 
 
